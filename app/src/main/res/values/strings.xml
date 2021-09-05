@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projekt-Quizowanie</string>
+    <string name="kicajkowe_quizowanie">Kicajkowe Quizowanie</string>
+    <string name="play">Play</string>
+    <string name="add_new_question">Add new question</string>
+    <string name="text">Text</string>
+    <string name="answer1">answer1</string>
+    <string name="answer2">answer2</string>
+    <string name="answer3">answer3</string>
+    <string name="answer4">answer4</string>
+    <string name="number">Number</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+</resources>
